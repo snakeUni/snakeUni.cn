@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksnake_uni_cn=self.webpackChunksnake_uni_cn||[]).push([[1742],{6606:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/snakeUni.cn/blog/tags/hola","allTagsPath":"/snakeUni.cn/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksnake_uni_cn=self.webpackChunksnake_uni_cn||[]).push([[6217],{1930:e=>{e.exports=JSON.parse('{"permalink":"/snakeUni.cn/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
