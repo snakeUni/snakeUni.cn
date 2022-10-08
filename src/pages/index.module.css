@@ -21,3 +21,11 @@
   align-items: center;
   justify-content: center;
 }
+
+.myLayout {
+  display: flex;
+}
+
+.flex1 {
+  flex: 1;
+}
