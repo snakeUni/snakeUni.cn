@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://snake-uni.cn/snakeUni.cn/blog</id>
-    <title>snake blog Blog</title>
+    <title>博客 &amp; 随笔 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://snake-uni.cn/snakeUni.cn/blog"/>
-    <subtitle>snake blog Blog</subtitle>
+    <subtitle>博客 &amp; 随笔 Blog</subtitle>
     <icon>https://snake-uni.cn/snakeUni.cn/img/snake.svg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
